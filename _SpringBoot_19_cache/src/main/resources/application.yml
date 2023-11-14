@@ -1,0 +1,46 @@
+server:
+  port: 8080
+
+mybatis-plus:
+  global-config:
+    db-config:
+      table-prefix: tb_
+      id-type: auto
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+spring:
+  datasource:
+    druid:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/springboot_db?serverTimezone=UTC
+      username: root
+      password: 123456
+
+# --------------------配置 ehcache----------------------------
+#  cache:
+#    type: ehcache
+#    ehcache:
+#      config: ehcache.xml
+
+#--------------------配置 redis----------------------------
+#  cache:
+#    type: redis
+#    redis:
+#      use-key-prefix: true      # 是否开启前缀      建议开启。
+#      cache-null-values: false  # 是否缓存空值
+#      key-prefix: sms_          # 设置键的前缀名
+#      time-to-live: 10s         # 最大存活时间
+#  redis:
+#    host: localhost
+#    port: 6379
+
+# --------------------自定义配置 Memcached----------------------------
+memcached:
+  servers: localhost:11211
+  poolSize: 10
+  opTimeOut: 3000
+
+
+
+

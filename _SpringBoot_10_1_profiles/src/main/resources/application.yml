@@ -1,0 +1,16 @@
+#spring:
+#  profiles:
+#    active: dev
+#    include: devMVC,devDB
+
+#  上面的更改太麻烦
+# 先加载 include的，include中的会相互覆盖，最后加载 active中的
+
+
+# 与上面不同的是 ， 先加载 active
+spring:
+  profiles:
+    active: @profile.active@
+    group:
+      "dev": devMVC,devDB
+      "pro": proMVC,proDB

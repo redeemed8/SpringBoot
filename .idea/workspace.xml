@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98a1a394-35cd-4ed6-a8fb-fb05f39084fc" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Maven3.5.4/apache-maven-3.5.4" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2SyMfHguqGbEWHTsY7oo22LA7LQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/protjct/java项目备份/ll&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;a71a81e998e758136af71ce3a2250496&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jchhh" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="应用程序.CustomProducer">
+    <configuration name="CustomProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jchhh.CustomProducer" />
+      <module name="kafka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jchhh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot16RedisApplicationTests.testGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_SpringBoot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jchhh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jchhh" />
+      <option name="MAIN_CLASS_NAME" value="com.jchhh.SpringBoot16RedisApplicationTests" />
+      <option name="METHOD_NAME" value="testGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot16RedisApplicationTests.testHset" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="_SpringBoot_16_redis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jchhh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jchhh" />
+      <option name="MAIN_CLASS_NAME" value="com.jchhh.SpringBoot16RedisApplicationTests" />
+      <option name="METHOD_NAME" value="testHset" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="_SpringBoot_1_1_quickstart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="_SpringBoot_1_1_quickstart" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jchhh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_8_1_ssmp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KafkaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.KafkaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="kafka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.ProducerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jchhh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot11QuickstartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_1_4_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="jchhh.SpringBoot11QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot11QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_1_1_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot11QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12HotDeployApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_12_hot_deploy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot12HotDeployApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12QuickstartApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_1_2_quickstart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot12QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12QuickstartApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_2_base_configuration" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot12QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12QuickstartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_1_2_quickstart (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot12QuickstartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot20JetcacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_20_jetcache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot20JetcacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot21J2cacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_21_j2cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot21J2cacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot22TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_22_task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot22TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot23MailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_23_mail" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot23MailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot24MqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_24_mq" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot24MqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot25AdminServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_25_admin_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot25AdminServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot26AdminClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="_SpringBoot_26_admin_client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jchhh.SpringBoot26AdminClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.CustomProducer" />
+        <item itemvalue="Spring Boot.Application (1)" />
+        <item itemvalue="Spring Boot.ProducerApplication" />
+        <item itemvalue="JUnit.SpringBoot16RedisApplicationTests.testHset" />
+        <item itemvalue="JUnit.SpringBoot16RedisApplicationTests.testGet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="98a1a394-35cd-4ed6-a8fb-fb05f39084fc" name="变更" comment="" />
+      <created>1690114468711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690114468711</updated>
+      <workItem from="1690114469794" duration="136000" />
+      <workItem from="1690114613914" duration="1195000" />
+      <workItem from="1690115823320" duration="11000" />
+      <workItem from="1690115874321" duration="30000" />
+      <workItem from="1690115913207" duration="25000" />
+      <workItem from="1690115946601" duration="54000" />
+      <workItem from="1690116055803" duration="17000" />
+      <workItem from="1690116246374" duration="155000" />
+      <workItem from="1690116763771" duration="1332000" />
+      <workItem from="1690118111444" duration="480000" />
+      <workItem from="1690119197535" duration="13000" />
+      <workItem from="1690119215316" duration="20000" />
+      <workItem from="1690119244968" duration="21000" />
+      <workItem from="1690163216967" duration="1712000" />
+      <workItem from="1690172361178" duration="1949000" />
+      <workItem from="1690262705376" duration="12000" />
+      <workItem from="1690276016784" duration="17000" />
+      <workItem from="1690276058207" duration="9000" />
+      <workItem from="1690276091820" duration="13000" />
+      <workItem from="1690276158893" duration="25000" />
+      <workItem from="1690442489451" duration="1018000" />
+      <workItem from="1690453822081" duration="25000" />
+      <workItem from="1690466357953" duration="312000" />
+      <workItem from="1691151796032" duration="929000" />
+      <workItem from="1691209802972" duration="14000" />
+      <workItem from="1691414053207" duration="266000" />
+      <workItem from="1691470231616" duration="3070000" />
+      <workItem from="1691551342765" duration="1526000" />
+      <workItem from="1691572338015" duration="852000" />
+      <workItem from="1691736541480" duration="116000" />
+      <workItem from="1691927885952" duration="4000" />
+      <workItem from="1692007987158" duration="879000" />
+      <workItem from="1692097694232" duration="830000" />
+      <workItem from="1692098537266" duration="667000" />
+      <workItem from="1692436306726" duration="22000" />
+      <workItem from="1692436337948" duration="39000" />
+      <workItem from="1692436574097" duration="105000" />
+      <workItem from="1692853031213" duration="193000" />
+      <workItem from="1693716525408" duration="47000" />
+      <workItem from="1693821899099" duration="41000" />
+      <workItem from="1693824886170" duration="32000" />
+      <workItem from="1693826187103" duration="14000" />
+      <workItem from="1693827903005" duration="10000" />
+      <workItem from="1693828156590" duration="86000" />
+      <workItem from="1693901018787" duration="190000" />
+      <workItem from="1693902318953" duration="20000" />
+      <workItem from="1693902690948" duration="24000" />
+      <workItem from="1699440144499" duration="243000" />
+      <workItem from="1699525080027" duration="448000" />
+      <workItem from="1699525544671" duration="1735000" />
+      <workItem from="1699528160937" duration="636000" />
+      <workItem from="1699528807847" duration="7494000" />
+      <workItem from="1699536902137" duration="3760000" />
+      <workItem from="1699598172348" duration="1239000" />
+      <workItem from="1699614248445" duration="1217000" />
+      <workItem from="1699701665782" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

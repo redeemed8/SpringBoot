@@ -1,0 +1,65 @@
+# properties > yml > yaml
+# 常用 yml文件
+server:
+  port: 8080
+
+country: china
+province: beijing
+city: beijing
+area: haidian
+
+birthday: 1949-09-21
+
+user:
+  name: jchhh
+  age: 16
+
+user2:
+  name: jchhh
+  age: 16
+
+likes:
+  - game
+  - music
+  - sleep
+
+likes2: [game2,music2,sleep2]
+
+a:
+  b:
+    c:
+      d:
+        e: 1234
+
+users1:
+  - name: zhangsan
+    age: 18
+  - name: lisi
+    age: 24
+
+users2:
+  -
+    name: zhangsan
+    age: 18
+  -
+    name: lisi
+    age: 24
+
+user3: [{name: zhangsan,age: 18},{name: lisi,age: 19}]
+
+baseDir: C:\windows
+
+# 使用 ${属性名}引用数据}
+tempDir: ${baseDir}\temp
+# 使用引号包起来可以使用转义字符
+# tempDir: "${baseDir}\temp"
+
+# 创建类，用于封装下面的数据
+# 由 Spring帮我们去加载数据到对象中，一定要告诉 Spring加载这组信息
+# 使用的时候从 Spring中直接获取信息使用
+
+datasource:
+  driver: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/springboot_db?serverTimezone=UTC
+  username: root
+  password: 123456

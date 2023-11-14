@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_SpringBoot_10_1_profiles/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_10_1_profiles/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_11_1_log/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_11_1_log/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_12_hot_deploy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_13_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_13_configuration/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_14_test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_15_sql/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_15_sql/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_16_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_17_mongoDB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_17_mongoDB/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_18_es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_19_cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_1_1_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_1_2_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_1_2_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_1_3_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_1_3_quickstart/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_1_4_quickstart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_20_jetcache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_20_jetcache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_21_j2cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_21_j2cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_22_task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_22_task/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_23_mail/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_23_mail/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_24_mq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_24_mq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_25_admin_server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_25_admin_server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_26_admin_client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_26_admin_client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_2_base_configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_4_1_junit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_5_1_mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_5_1_mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_SpringBoot_8_1_ssmp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_Springboot_6_1_mybatis_plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_Springboot_6_1_mybatis_plus/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_Springboot_7_1_druid/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/_Springboot_7_1_druid/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_30_startup/src/main/java" charset="UTF-8" />
+  </component>
+</project>

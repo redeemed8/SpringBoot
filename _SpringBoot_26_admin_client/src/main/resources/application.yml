@@ -1,0 +1,26 @@
+server:
+  port: 8081
+
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:8080
+
+management:
+  endpoint:
+    health:
+      show-details: always
+    info:
+      enabled: false
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+    enabled-by-default: true
+
+info:
+  appName: @project.artifactId@
+  version: @project.version@
+  company: 可乐鸡翅
+  author: jchhh

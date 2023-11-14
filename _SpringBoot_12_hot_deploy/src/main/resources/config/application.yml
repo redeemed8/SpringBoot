@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+# 配置文件分为 4级
+# 1级: file: config/application.yml        （最高级）
+# 2级: file: application.yml
+# 3级: classpath: config/application.yml
+# 4级: classpath: application.yml
+

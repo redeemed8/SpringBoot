@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="_SpringBoot_10_1_profiles" />
+        <module name="_SpringBoot_4_1_junit" />
+        <module name="_Springboot_6_1_mybatis_plus" />
+        <module name="_SpringBoot_18_es" />
+        <module name="springboot_28_bean_load" />
+        <module name="_SpringBoot_1_2_quickstart (2)" />
+        <module name="_SpringBoot_17_mongoDB" />
+        <module name="springboot_29_bean_properties" />
+        <module name="_Springboot_7_1_druid" />
+        <module name="_SpringBoot_25_admin_server" />
+        <module name="_SpringBoot_23_mail" />
+        <module name="_SpringBoot_12_hot_deploy" />
+        <module name="_SpringBoot_1_4_quickstart" />
+        <module name="_SpringBoot_24_mq" />
+        <module name="_SpringBoot_2_base_configuration" />
+        <module name="_SpringBoot_15_sql" />
+        <module name="_SpringBoot_1_3_quickstart" />
+        <module name="_SpringBoot_26_admin_client" />
+        <module name="_SpringBoot_16_redis" />
+        <module name="_SpringBoot_20_jetcache" />
+        <module name="_SpringBoot_14_test" />
+        <module name="_SpringBoot_21_j2cache" />
+        <module name="_SpringBoot_1_2_quickstart" />
+        <module name="_SpringBoot_22_task" />
+        <module name="_SpringBoot_13_configuration" />
+        <module name="_SpringBoot_5_1_mybatis" />
+        <module name="springboot_27_bean_init" />
+        <module name="_SpringBoot_1_1_quickstart" />
+        <module name="springboot_30_startup" />
+        <module name="_SpringBoot_19_cache" />
+        <module name="kafka" />
+        <module name="_SpringBoot_8_1_ssmp" />
+        <module name="_SpringBoot_11_1_log" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="_SpringBoot_10_1_profiles" target="1.8" />
+      <module name="_SpringBoot_11_1_log" target="1.8" />
+      <module name="_SpringBoot_12_hot_deploy" target="1.8" />
+      <module name="_SpringBoot_13_configuration" target="1.8" />
+      <module name="_SpringBoot_14_test" target="1.8" />
+      <module name="_SpringBoot_15_sql" target="1.8" />
+      <module name="_SpringBoot_16_redis" target="1.8" />
+      <module name="_SpringBoot_17_mongoDB" target="1.8" />
+      <module name="_SpringBoot_18_es" target="1.8" />
+      <module name="_SpringBoot_19_cache" target="1.8" />
+      <module name="_SpringBoot_1_1_quickstart" target="1.8" />
+      <module name="_SpringBoot_1_2_quickstart" target="1.8" />
+      <module name="_SpringBoot_1_2_quickstart (1)" target="1.8" />
+      <module name="_SpringBoot_1_2_quickstart (2)" target="1.8" />
+      <module name="_SpringBoot_1_3_quickstart" target="1.8" />
+      <module name="_SpringBoot_1_4_quickstart" target="1.8" />
+      <module name="_SpringBoot_20_jetcache" target="1.8" />
+      <module name="_SpringBoot_21_j2cache" target="1.8" />
+      <module name="_SpringBoot_22_task" target="1.8" />
+      <module name="_SpringBoot_23_mail" target="1.8" />
+      <module name="_SpringBoot_24_mq" target="1.8" />
+      <module name="_SpringBoot_25_admin_server" target="1.8" />
+      <module name="_SpringBoot_26_admin_client" target="1.8" />
+      <module name="_SpringBoot_2_base_configuration" target="1.8" />
+      <module name="_SpringBoot_4_1_junit" target="1.8" />
+      <module name="_SpringBoot_5_1_mybatis" target="1.8" />
+      <module name="_Springboot_6_1_mybatis_plus" target="1.8" />
+      <module name="_Springboot_7_1_druid" target="1.8" />
+      <module name="_SpringBoot_8_1_ssmp" target="1.8" />
+      <module name="kafka" target="1.8" />
+      <module name="springboot_27_bean_init" target="1.8" />
+      <module name="springboot_28_bean_load" target="1.8" />
+      <module name="springboot_29_bean_properties" target="1.8" />
+      <module name="springboot_30_startup" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="_SpringBoot_12_hot_deploy" options="-parameters" />
+      <module name="_SpringBoot_14_test" options="-parameters" />
+      <module name="_SpringBoot_16_redis" options="-parameters" />
+      <module name="_SpringBoot_18_es" options="-parameters" />
+      <module name="_SpringBoot_19_cache" options="-parameters" />
+      <module name="_SpringBoot_1_1_quickstart" options="-parameters" />
+      <module name="_SpringBoot_1_2_quickstart" options="-parameters" />
+      <module name="_SpringBoot_1_2_quickstart (1)" options="-parameters" />
+      <module name="_SpringBoot_1_4_quickstart" options="-parameters" />
+      <module name="_SpringBoot_24_mq" options="-parameters" />
+      <module name="_SpringBoot_2_base_configuration" options="-parameters" />
+      <module name="_SpringBoot_4_1_junit" options="-parameters" />
+      <module name="_SpringBoot_8_1_ssmp" options="-parameters" />
+      <module name="kafka" options="-parameters" />
+      <module name="springboot_30_startup" options="-parameters" />
+    </option>
+  </component>
+</project>

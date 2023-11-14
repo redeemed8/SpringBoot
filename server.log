@@ -1,0 +1,32 @@
+2023-07-06 22:54:41.175  INFO 19608 --- [main] com.jchhh.Application                    : Starting Application using Java 1.8.0_192 on LAPTOP-1P7D6721 with PID 19608 (D:\protjct\jjj\_SpringBoot_\_SpringBoot_11_1_log\target\classes started by 王俊逸 in D:\protjct\jjj\_SpringBoot_)
+2023-07-06 22:54:41.177  INFO 19608 --- [main] com.jchhh.Application                    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06 22:54:41.555  INFO 19608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-07-06 22:54:41.556  INFO 19608 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-07-06 22:54:41.557  INFO 19608 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-07-06 22:54:41.557  INFO 19608 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-07-06 22:54:41.559  INFO 19608 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-07-06 22:54:41.563  INFO 19608 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06 22:54:41.563  INFO 19608 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-07-06 22:54:41.628  INFO 19608 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06 22:54:41.628  INFO 19608 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 431 ms
+2023-07-06 22:54:41.769  INFO 19608 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-06 22:54:41.774  INFO 19608 --- [main] com.jchhh.Application                    : Started Application in 0.802 seconds (JVM running for 1.305)
+2023-07-06 22:54:47.848  INFO 19608 --- [http-nio-8080-exec-2] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-07-06 22:54:47.848  INFO 19608 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-07-06 22:54:47.848  INFO 19608 --- [http-nio-8080-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2023-07-06 22:54:47.858  INFO 19608 --- [http-nio-8080-exec-2] com.jchhh.controller.BookController      : info...
+2023-07-06 22:54:47.858  WARN 19608 --- [http-nio-8080-exec-2] com.jchhh.controller.BookController      : warn...
+2023-07-06 22:54:47.858 ERROR 19608 --- [http-nio-8080-exec-2] com.jchhh.controller.BookController      : error...
+2023-07-06 22:58:41.820  INFO 18084 --- [main] com.jchhh.Application                    : Starting Application using Java 1.8.0_192 on LAPTOP-1P7D6721 with PID 18084 (D:\protjct\jjj\_SpringBoot_\_SpringBoot_11_1_log\target\classes started by 王俊逸 in D:\protjct\jjj\_SpringBoot_)
+2023-07-06 22:58:41.822  INFO 18084 --- [main] com.jchhh.Application                    : No active profile set, falling back to 1 default profile: "default"
+2023-07-06 22:58:42.194  INFO 18084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-07-06 22:58:42.194  INFO 18084 --- [main] o.a.catalina.core.AprLifecycleListener   : Loaded Apache Tomcat Native library [1.2.36] using APR version [1.7.2].
+2023-07-06 22:58:42.195  INFO 18084 --- [main] o.a.catalina.core.AprLifecycleListener   : APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2023-07-06 22:58:42.195  INFO 18084 --- [main] o.a.catalina.core.AprLifecycleListener   : APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2023-07-06 22:58:42.196  INFO 18084 --- [main] o.a.catalina.core.AprLifecycleListener   : OpenSSL successfully initialized [OpenSSL 1.1.1t  7 Feb 2023]
+2023-07-06 22:58:42.200  INFO 18084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-07-06 22:58:42.200  INFO 18084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-07-06 22:58:42.271  INFO 18084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-07-06 22:58:42.271  INFO 18084 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 429 ms
+2023-07-06 22:58:42.411  INFO 18084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-07-06 22:58:42.416  INFO 18084 --- [main] com.jchhh.Application                    : Started Application in 0.796 seconds (JVM running for 1.308)

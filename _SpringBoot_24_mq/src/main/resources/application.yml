@@ -1,0 +1,27 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 6543
+
+# -----------------ActiveMq || RabbitMq || kafka------------------
+spring:
+  activemq:
+    broker-url: tcp://localhost:61616
+  jms:
+    pub-sub-domain: true
+    template:
+      default-destination: jchhh
+  rabbitmq:
+    host: localhost
+    port: 5672
+  kafka:
+    bootstrap-servers: 127.0.0.1:9092
+    consumer:
+      group-id: ppp
+
+# -----------------RocketMq------------------
+rocketmq:
+  name-server: localhost:9876
+  producer:
+    group: group_rocketmq
+
+

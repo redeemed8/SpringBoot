@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_10_1_profiles/_SpringBoot_10_1_profiles.iml" filepath="$PROJECT_DIR$/_SpringBoot_10_1_profiles/_SpringBoot_10_1_profiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_11_1_log/_SpringBoot_11_1_log.iml" filepath="$PROJECT_DIR$/_SpringBoot_11_1_log/_SpringBoot_11_1_log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_12_hot_deploy/_SpringBoot_12_hot_deploy.iml" filepath="$PROJECT_DIR$/_SpringBoot_12_hot_deploy/_SpringBoot_12_hot_deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_13_configuration/_SpringBoot_13_configuration.iml" filepath="$PROJECT_DIR$/_SpringBoot_13_configuration/_SpringBoot_13_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_14_test/_SpringBoot_14_test.iml" filepath="$PROJECT_DIR$/_SpringBoot_14_test/_SpringBoot_14_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_15_sql/_SpringBoot_15_sql.iml" filepath="$PROJECT_DIR$/_SpringBoot_15_sql/_SpringBoot_15_sql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_16_redis/_SpringBoot_16_redis.iml" filepath="$PROJECT_DIR$/_SpringBoot_16_redis/_SpringBoot_16_redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_17_mongoDB/_SpringBoot_17_mongoDB.iml" filepath="$PROJECT_DIR$/_SpringBoot_17_mongoDB/_SpringBoot_17_mongoDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_18_es/_SpringBoot_18_es.iml" filepath="$PROJECT_DIR$/_SpringBoot_18_es/_SpringBoot_18_es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_19_cache/_SpringBoot_19_cache.iml" filepath="$PROJECT_DIR$/_SpringBoot_19_cache/_SpringBoot_19_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_1_1_quickstart/_SpringBoot_1_1_quickstart.iml" filepath="$PROJECT_DIR$/_SpringBoot_1_1_quickstart/_SpringBoot_1_1_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_1_2_quickstart/_SpringBoot_1_2_quickstart.iml" filepath="$PROJECT_DIR$/_SpringBoot_1_2_quickstart/_SpringBoot_1_2_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_1_3_quickstart/_SpringBoot_1_3_quickstart.iml" filepath="$PROJECT_DIR$/_SpringBoot_1_3_quickstart/_SpringBoot_1_3_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_1_4_quickstart/_SpringBoot_1_4_quickstart.iml" filepath="$PROJECT_DIR$/_SpringBoot_1_4_quickstart/_SpringBoot_1_4_quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_20_jetcache/_SpringBoot_20_jetcache.iml" filepath="$PROJECT_DIR$/_SpringBoot_20_jetcache/_SpringBoot_20_jetcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_21_j2cache/_SpringBoot_21_j2cache.iml" filepath="$PROJECT_DIR$/_SpringBoot_21_j2cache/_SpringBoot_21_j2cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_22_task/_SpringBoot_22_task.iml" filepath="$PROJECT_DIR$/_SpringBoot_22_task/_SpringBoot_22_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_23_mail/_SpringBoot_23_mail.iml" filepath="$PROJECT_DIR$/_SpringBoot_23_mail/_SpringBoot_23_mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_24_mq/_SpringBoot_24_mq.iml" filepath="$PROJECT_DIR$/_SpringBoot_24_mq/_SpringBoot_24_mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_25_admin_server/_SpringBoot_25_admin_server.iml" filepath="$PROJECT_DIR$/_SpringBoot_25_admin_server/_SpringBoot_25_admin_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_26_admin_client/_SpringBoot_26_admin_client.iml" filepath="$PROJECT_DIR$/_SpringBoot_26_admin_client/_SpringBoot_26_admin_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_2_base_configuration/_SpringBoot_2_base_configuration.iml" filepath="$PROJECT_DIR$/_SpringBoot_2_base_configuration/_SpringBoot_2_base_configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_4_1_junit/_SpringBoot_4_1_junit.iml" filepath="$PROJECT_DIR$/_SpringBoot_4_1_junit/_SpringBoot_4_1_junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_5_1_mybatis/_SpringBoot_5_1_mybatis.iml" filepath="$PROJECT_DIR$/_SpringBoot_5_1_mybatis/_SpringBoot_5_1_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_SpringBoot_8_1_ssmp/_SpringBoot_8_1_ssmp.iml" filepath="$PROJECT_DIR$/_SpringBoot_8_1_ssmp/_SpringBoot_8_1_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Springboot_6_1_mybatis_plus/_Springboot_6_1_mybatis_plus.iml" filepath="$PROJECT_DIR$/_Springboot_6_1_mybatis_plus/_Springboot_6_1_mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Springboot_7_1_druid/_Springboot_7_1_druid.iml" filepath="$PROJECT_DIR$/_Springboot_7_1_druid/_Springboot_7_1_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka/kafka.iml" filepath="$PROJECT_DIR$/kafka/kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_27_bean_init/springboot_27_bean_init.iml" filepath="$PROJECT_DIR$/springboot_27_bean_init/springboot_27_bean_init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_28_bean_load/springboot_28_bean_load.iml" filepath="$PROJECT_DIR$/springboot_28_bean_load/springboot_28_bean_load.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_29_bean_properties/springboot_29_bean_properties.iml" filepath="$PROJECT_DIR$/springboot_29_bean_properties/springboot_29_bean_properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_30_startup/springboot_30_startup.iml" filepath="$PROJECT_DIR$/springboot_30_startup/springboot_30_startup.iml" />
+    </modules>
+  </component>
+</project>
